@@ -1,0 +1,15 @@
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.csproj.AssemblyReference.cache
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.AssemblyInfoInputs.cache
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.AssemblyInfo.cs
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.csproj.CoreCompileInputs.cache
+/workspaces/DesignPatterns/design-pattern/bin/Debug/net7.0/design-pattern
+/workspaces/DesignPatterns/design-pattern/bin/Debug/net7.0/design-pattern.deps.json
+/workspaces/DesignPatterns/design-pattern/bin/Debug/net7.0/design-pattern.runtimeconfig.json
+/workspaces/DesignPatterns/design-pattern/bin/Debug/net7.0/design-pattern.dll
+/workspaces/DesignPatterns/design-pattern/bin/Debug/net7.0/design-pattern.pdb
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.dll
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/refint/design-pattern.dll
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.pdb
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/design-pattern.genruntimeconfig.cache
+/workspaces/DesignPatterns/design-pattern/obj/Debug/net7.0/ref/design-pattern.dll
