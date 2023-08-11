@@ -5,7 +5,9 @@
 // - value euqality 
 // - object immutability scenarios
 Console.WriteLine("Hello, World!");
-Person p = new ("kamil", "hussain");
-Console.WriteLine($"Printing record entity:{p}");
-
+Person p1 = new ("kamil", "hussain");
+Person p2 = new ("kamil","hussain");
+//Console.WriteLine($"Printing record entity:{p1}");
+Console.WriteLine($"Are they equal ? {p1 == p2 }"); // true = >  if p1 and p2 has same object props' value but for classes this is always true since their types are same.
+Console.WriteLine($"Are referrences equal ? {ReferenceEquals(p1,p2)}"); // this is always since both are different referrences
 
